@@ -1,0 +1,12 @@
+---
+title: "Code-insertion Example"
+filters:
+  - code-insertion
+insert-before-post: before_post.md
+insert-after-post: after_post.md
+---
+
+## Heading
+
+This filter adds code immediately before and after the post.
+
