@@ -1,8 +1,9 @@
 # Code-insertion Extension For Quarto
 
 This is a [Quarto](https://quarto.org) extension that enables code insertion immediately before and/or after a post/page.
-When you insert code before the post, it will be after the post header (section that contains author and date).
-When you insert code after the post, it will be before the comment section.
+
+- When you insert code **before** the post, it will be after the post header (section that contains author and date).
+- When you insert code **after** the post, it will be before the comment section.
 
 ## Installing
 
