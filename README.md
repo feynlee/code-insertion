@@ -1,5 +1,7 @@
 # Code-insertion Extension For Quarto
 
+<a href="https://ko-fi.com/ziyueli"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png?_gl=1*1lrplqr*_ga*MjA3NzkyMTU3Mi4xNjgxMDg2MjQw*_ga_M13FZ7VQ2C*MTY4MTA4NjI0Ni4xLjEuMTY4MTA4NzYxNi40NC4wLjA." alt="Ko-fi" width="150px"></a>
+
 This is a [Quarto](https://quarto.org) extension that enables code insertion immediately before and/or after a post/page.
 
 - When you insert code **before** the post, it will be after the post header (section that contains author and date).
