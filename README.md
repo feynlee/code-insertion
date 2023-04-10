@@ -4,7 +4,7 @@
 
 This is a [Quarto](https://quarto.org) extension that enables code insertion immediately before and/or after a post/page.
 
-- When you insert code **before** the post, it will be after the post header (section that contains author and date).
+- When you insert code **before** the post, it will be after the post header (the section that contains the author and date).
 - When you insert code **after** the post, it will be before the comment section.
 
 ## Installing
@@ -28,9 +28,9 @@ insert-after-post: after_post.md
 ```
 
 You need to specify the path to the markdown file that contains the code you want to insert into your post.
-Currently this extension does not support inline code insertion (i.e. specifying the code to be inserted right within YAML front matter).
+Currently, this extension does not support inline code insertion (i.e. specifying the code to be inserted right within YAML front matter).
 
-**Tip**: You can add this to `_metadata.yml` under the folder containing all your posts, so that all of them can share this setting.
+**Tip**: You can add this to `_metadata.yml` under the folder containing all your posts so that all of them can share this setting.
 
 ## Example
 
